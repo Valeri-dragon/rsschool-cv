@@ -1,4 +1,4 @@
 # rsschool-cv
 
 https://Valeri-dragon.github.io/rsschool-cv/cv
-https://Valeri-dragon.github.io/rsschool-cv/
+https://valeri-dragon.github.io/rsschool-cv/index.html
