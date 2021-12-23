@@ -17,12 +17,12 @@ I believe that my ability to learn and acquire new skills will help me go this w
 
 ## Skills and mastery:
 
-1.HTML5, CSS3
-1.JavaScript Basics
-1.GIT, GitHub
-1.VS Code, PhP, MySQL
-1.Adobe Photoshop, CorelDraw, Autodesk 3ds Max, Adobe Animate
-1.Deployment of sites on cms Wordpress and joomla
+1. HTML5, CSS3
+1. JavaScript Basics
+1. GIT, GitHub
+1. VS Code, PhP, MySQL
+1. Adobe Photoshop, CorelDraw, Autodesk 3ds Max, Adobe Animate
+1. Deployment of sites on cms Wordpress and joomla
 
 ## Code
 
@@ -105,10 +105,10 @@ try {
 
 Page layout https://cosmedi.ru/peresadka-volos-v-turtsii.html . Creating a website https://workal.ru / , https://websvyaz.ru / , http://aktivprof.ru / , creating a page https://maverick.by/viza-shengen / and block programming https://maverick.by/viza-shengen/#documents Projects on github.com:
 
-1.Promote AUDI Q3 Sportback as part of the course work on animation https://valeri-dragon.github.io/Audi-promo/
-1.Layout of the food delivery website https://valeri-dragon.github.io/food_project/ 3) Layout of the website for choosing booking seats in the cinema https://valeri-dragon.github.io/cinema-project/
+1. Promote AUDI Q3 Sportback as part of the course work on animation https://valeri-dragon.github.io/Audi-promo/
+1. Layout of the food delivery website https://valeri-dragon.github.io/food_project/ 3) Layout of the website for choosing booking seats in the cinema https://valeri-dragon.github.io/cinema-project/
 
-1.page layout and functional programming: floor selection https://valeri-dragon.github.io/Residential-complex/
-1.Promo page of Mercedes-200 car https://valeri-dragon.github.io/mers-200/
-1.programming of the wildberries store https://valeri-dragon.github.io/wildberries/
-1.programming of search, filter, basket https://valeri-dragon.github.io/ozon/
+1. page layout and functional programming: floor selection https://valeri-dragon.github.io/Residential-complex/
+1. Promo page of Mercedes-200 car https://valeri-dragon.github.io/mers-200/
+1. programming of the wildberries store https://valeri-dragon.github.io/wildberries/
+1. programming of search, filter, basket https://valeri-dragon.github.io/ozon/
