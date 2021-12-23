@@ -94,3 +94,14 @@ try {
 } catch (e) {}
 };search()
 ```
+
+##Examples of my work
+Page layout https://cosmedi.ru/peresadka-volos-v-turtsii.html . Creating a website https://workal.ru / , https://websvyaz.ru / , http://aktivprof.ru / , creating a page https://maverick.by/viza-shengen / and block programming https://maverick.by/viza-shengen/#documents Projects on github.com:
+
+*1) Promote AUDI Q3 Sportback as part of the course work on animation https://valeri-dragon.github.io/Audi-promo/
+*2) Layout of the food delivery website https://valeri-dragon.github.io/food_project/ 3) Layout of the website for choosing booking seats in the cinema https://valeri-dragon.github.io/cinema-project/
+
+*4)page layout and functional programming: floor selection https://valeri-dragon.github.io/Residential-complex/
+*5)Promo page of Mercedes-200 car https://valeri-dragon.github.io/mers-200/
+*6)programming of the wildberries store https://valeri-dragon.github.io/wildberries/
+*7)programming of search, filter, basket https://valeri-dragon.github.io/ozon/
