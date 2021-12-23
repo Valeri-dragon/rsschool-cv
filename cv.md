@@ -11,3 +11,10 @@ I am interested in web development because this profession provides endless oppo
 in addition, there are a huge number of free high-quality resources for self-education and a large community of developers.
 
 I believe that my ability to learn and acquire new skills will help me go this way and become an experienced interface developer
+##Skills and mastery:
+HTML5, CSS3
+JavaScript Basics
+GIT, GitHub
+VS Code, PhP, MySQL
+Adobe Photoshop, CorelDraw, Autodesk 3ds Max, Adobe Animate
+Deployment of sites on cms Wordpress and joomla
