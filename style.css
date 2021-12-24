@@ -20,6 +20,19 @@ h1,h2,h3,h4,h5,h6 {
 body{
   font-family: 'Montserrat', sans-serif;
 }
+html::-webkit-scrollbar {
+    width: 10px;
+}
+html::-webkit-scrollbar-track {
+    -webkit-box-shadow: 5px 5px 5px -5px rgb(34 60 80 / 20%) inset;
+    background-color: #4298e066;
+    border-radius: 10px;
+}
+html::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+          background: linear-gradient( 
+180deg, #90CDF4, #FBD38D);
+}
 .container {
   max-width: 85%;
   margin   : 0 auto;
