@@ -289,14 +289,14 @@ const renderGoods = (goods) => {
    goodBlock.classList.add("col-sm-6");
    goodBlock.innerHTML = `
    &lt;div class="goods-card">
-           &lt;span class="label ${label ? null : "d-none"}">${label}&lt;/span&gt;
-           &lt;img src="db/${img}"  alt="${name}" class="goods-image"/&gt;
-           &lt;h3 class="goods-title">${name}&lt;/h3&gt;
-           &lt;p class="goods-description">${description}&lt;/p&gt;
-          &lt;button class="button goods-card-btn add-to-cart" data-id="${id}"&gt;
-          &lt;span class="button-price">$${price}&lt;/span&gt;
-          &lt;/button&gt;
-        &lt;/div&gt;
+    &lt;span class="label ${label ? null : "d-none"}">${label}&lt;/span&gt;
+    &lt;img src="db/${img}"  alt="${name}" class="goods-image"/&gt;
+    &lt;h3 class="goods-title">${name}&lt;/h3&gt;
+    &lt;p class="goods-description">${description}&lt;/p&gt;
+    &lt;button class="button goods-card-btn add-to-cart" data-id="${id}"&gt;
+     &lt;span class="button-price">$${price}&lt;/span&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
    `;
    containerCard.append(goodBlock);
  });

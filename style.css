@@ -216,3 +216,26 @@ display    : flex;
 .footer__logo {
   width: 25%;
 }
+pre {
+
+    overflow: auto;
+
+}
+
+@media (max-width: 1025px){
+.section-skills .row {
+  flex-direction: column;
+}
+}
+@media (max-width: 541px){
+  .main-section {
+    height: auto;
+    background: none;
+  }
+  .main-screen .row{
+  flex-direction: column-reverse;
+ }
+ .list__label {
+   flex-direction: column;
+ }
+}
